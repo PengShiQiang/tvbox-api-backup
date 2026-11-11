@@ -40,7 +40,7 @@
 
 | 地址 | 用途 |
 |------|------|
-| https://pengshiqiang.github.io/tvbox-api-backup/ | GitHub Pages 主站（本 fork 自动部署） |
+| https://tvbox.peng.mom/ | GitHub Pages 主站（本 fork 自动部署） |
 
 本 fork 以原始项目 `lubin776/tvbox-api-backup` 为上游，工作流每天自动抓取并更新接口与直播源。
 
