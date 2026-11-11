@@ -44,11 +44,11 @@
   },
 
   "apiDomains": [
-    { "tag": "备份线路", "base": "https://pengshiqiang.github.io/tvbox-api-backup/tvbox/" }
+    { "tag": "备份线路", "base": "https://tvbox.peng.mom/tvbox/" }
   ],
 
   "liveDomains": [
-    { "tag": "备份线路", "base": "https://pengshiqiang.github.io/tvbox-api-backup/tvbox/live/" }
+    { "tag": "备份线路", "base": "https://tvbox.peng.mom/tvbox/live/" }
   ],
 
   "apiWeights": {
@@ -76,7 +76,7 @@
 
   "liveAggregate": {
     "title": "海量直播聚合多线路专用接口",
-    "url": "https://pengshiqiang.github.io/tvbox-api-backup/tvbox/海量直播聚合接口.json"
+    "url": "https://tvbox.peng.mom/tvbox/海量直播聚合接口.json"
   },
 
   "downloadSources": [
